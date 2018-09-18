@@ -2372,3 +2372,11 @@ button:focus {
 button:active {
     transform: scale(0.99);
 }
+
+	#red {
+	color:red;
+	}
+	
+	#green {
+	color:green;
+	}
