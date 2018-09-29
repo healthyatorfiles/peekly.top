@@ -2376,9 +2376,19 @@ button:active {
 	#red {
 
 		background-color: red;
+		    width: 120px;
+    height: 60px;
+    border-radius: 20px;
+    font-size: 25px;
+    font-family: monospace;
 		
 	}
 	
 	#green {
 	background-color:#04d804;
+		    width: 120px;
+    height: 60px;
+    border-radius: 20px;
+    font-size: 25px;
+    font-family: monospace;
 	}
